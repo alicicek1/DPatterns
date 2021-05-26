@@ -1,0 +1,13 @@
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\bin\Debug\netcoreapp3.1\DependencyInversionPrenciple.exe
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\bin\Debug\netcoreapp3.1\DependencyInversionPrenciple.deps.json
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\bin\Debug\netcoreapp3.1\DependencyInversionPrenciple.runtimeconfig.json
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\bin\Debug\netcoreapp3.1\DependencyInversionPrenciple.runtimeconfig.dev.json
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\bin\Debug\netcoreapp3.1\DependencyInversionPrenciple.dll
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\bin\Debug\netcoreapp3.1\DependencyInversionPrenciple.pdb
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.csprojAssemblyReference.cache
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.AssemblyInfoInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.AssemblyInfo.cs
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.csproj.CoreCompileInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.dll
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.pdb
+C:\Users\ee\source\repos\DesignPatterns\DependencyInversionPrenciple\obj\Debug\netcoreapp3.1\DependencyInversionPrenciple.genruntimeconfig.cache
