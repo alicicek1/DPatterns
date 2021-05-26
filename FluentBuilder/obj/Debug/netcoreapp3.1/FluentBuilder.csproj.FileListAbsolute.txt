@@ -1,0 +1,13 @@
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.exe
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.deps.json
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.runtimeconfig.json
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.runtimeconfig.dev.json
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.dll
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.pdb
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.AssemblyInfoInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.AssemblyInfo.cs
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.dll
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.pdb
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.genruntimeconfig.cache
+C:\Users\ee\source\repos\DesignPatterns\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.csprojAssemblyReference.cache

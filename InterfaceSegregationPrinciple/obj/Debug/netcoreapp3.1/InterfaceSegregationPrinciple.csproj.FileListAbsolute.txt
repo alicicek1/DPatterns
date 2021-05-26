@@ -1,0 +1,13 @@
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.exe
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.deps.json
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+C:\Users\ee\source\repos\DesignPatterns\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.genruntimeconfig.cache
