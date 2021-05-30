@@ -1,0 +1,13 @@
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\bin\Debug\netcoreapp3.1\FuntionalBuilder.exe
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\bin\Debug\netcoreapp3.1\FuntionalBuilder.deps.json
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\bin\Debug\netcoreapp3.1\FuntionalBuilder.runtimeconfig.json
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\bin\Debug\netcoreapp3.1\FuntionalBuilder.runtimeconfig.dev.json
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\bin\Debug\netcoreapp3.1\FuntionalBuilder.dll
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\bin\Debug\netcoreapp3.1\FuntionalBuilder.pdb
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.csprojAssemblyReference.cache
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.AssemblyInfoInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.AssemblyInfo.cs
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.dll
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.pdb
+C:\Users\ee\source\repos\DesignPatterns\FuntionalBuilder\obj\Debug\netcoreapp3.1\FuntionalBuilder.genruntimeconfig.cache
